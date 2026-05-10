@@ -1,0 +1,16 @@
+class program617
+{
+    public static void main(String A[])
+    {
+        int d = 10;     // Decimal
+        int x = 0xa;    // Hexadecimal
+        int b = 0b1010; // Binary
+
+        System.out.printf("%d\t %d\t %d\t",d,x,b);
+    }
+}
+
+/*
+Output:
+    10       10      10
+ */
